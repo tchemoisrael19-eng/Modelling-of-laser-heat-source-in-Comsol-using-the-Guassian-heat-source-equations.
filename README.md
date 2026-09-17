@@ -1,4 +1,4 @@
-# Modelling-of-laser-heat-source-in-Comsol-using-the-Guassian-heat-source-equations.
+# Modelling of Laser heat source.
 
 # Modelling of a Gaussian Laser Heat Source in COMSOL
 
